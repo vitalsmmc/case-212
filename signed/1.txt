@@ -72,3 +72,4 @@
 Константин Емельянов               | Developer, NetUP
 Багиров Эльшан                     | Backend developer
 Сергей Николаев                    | Fullstack Developer
+Виталий Соколов                    | Senior Engineer, MicroLab
